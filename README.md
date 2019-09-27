@@ -9,5 +9,5 @@ $ ./gradlew build
 to run:
 
 ```
-$ java -jar build/libs/raytracer-<version>.jar [<path_to_gamefile>]
+$ java -jar build/libs/raytracer-<version>.jar
 ```
